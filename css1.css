@@ -17,3 +17,9 @@ body {
     margin: 0;
     padding: 0, 5em;
 }
+#cabecera #Tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: lighter;
+    font-size: 0.8em;
+}
